@@ -82,7 +82,7 @@ Developed a machine learning API for **3D scene classification and segmentation*
 
 ### **2. Mutable Tree Data Structure (MTDS)**
 Invented and patented (US 11670052 B1) a **data structure for high-performance spatial computing**.  
-- Achieved frame rate improvements from **99 FPS → 850 FPS**  
+- Achieved frame rate improvements from **99 FPS → 850 FPS** ; this was a second to final revision where I was profiling the way the mutable tree was gridded. As opposed to equivalent subvolumes per search tree, I created more variable sized volumes in slices similar to how DICOM (from what I've seen in the past) images are generated. Using a `Gaussian-style Traversal`, I was able to improve the frames per second from 405 fps to ~850 fps.
 - Enabled real-time 3D visualization of massive point clouds (31B points)  
 - Used in human brain tomography visualization at ESRF dataset
 
