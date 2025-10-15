@@ -36,7 +36,7 @@ I believe in:
 | **Programming Languages** | Python, C++, CMake, Bash, Visual Basic |
 | **Machine Learning / Deep Learning** | TensorFlow, PyTorch, scikit-learn, CoreML, XGBoost, AdaBoost, Random Forest |
 | **3D Visualization & Data Structures** | VTK, ParaView, VisIt, Potree, Octree, Mutable Tree, PointCloud Data Structures |
-| **Cloud & DevOps** | Azure, AWS, Azure DevOps, Databricks, Docker, GitHub, GitLab |
+| **Cloud & DevOps** | Azure, AWS, Azure DevOps, Docker, GitHub, GitLab |
 | **Visualization & Analysis** | OpenCV, OpenGL, Eigen, HDF5, NumPy, Matplotlib |
 | **Data Engineering** | Data wrangling, unstructured data management, point cloud processing |
 | **Research & Algorithms** | 3D image reconstruction, clustering, segmentation, regression compression, SVD, neural network architectures |
