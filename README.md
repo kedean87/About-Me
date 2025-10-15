@@ -106,7 +106,7 @@ Personal initiative inspired by my autistic sons, combining:
 At **Decision Sciences** and **DAAC**, I contributed to:
 - Muon tomography 3D reconstruction using deep learning  
 - Health analysis visualization of detector systems  
-- High-performance computing (HPC) simulation jobs across 55+ nodes  
+- High-performance computing (HPC) simulation jobs across 55+ (Decision Sciences), 5000+ (DAAC; DoD) nodes  
 - 3D Lidar fusion and container localization  
 - Visualization pipelines for missile fluid dynamics and jet simulation  
 
