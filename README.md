@@ -76,7 +76,7 @@ Developed a machine learning API for **3D scene classification and segmentation*
 
 **Outcome:** Top-5 category relations validated through covariance matching before SVM classification.
 
-🖼️ *Suggested image:* Visual comparison between standard ML classification vs. Neural ML segmentation.
+![Neural ML Explanation](images/neuralML.png)
 
 ---
 
@@ -86,7 +86,7 @@ Invented and patented (US 11670052 B1) a **data structure for high-performance s
 - Enabled real-time 3D visualization of massive point clouds (31B points)  
 - Used in human brain tomography visualization at ESRF dataset
 
-🖼️ *Suggested image:* Visualization of octree vs. mutable tree traversal speed comparison.
+![Octree vs MutableTree Performance](images/octreeVsmutabletreePerformance.png)
 
 ---
 
@@ -98,7 +98,7 @@ Personal initiative inspired by my autistic sons, combining:
 
 **Goal:** Build a multimodal learning system to help neurodiverse children develop language and social understanding.
 
-🖼️ *Suggested image:* Still frame or concept art of 3D avatar speaking.
+![Welcome To Lalia](images/WelcomeToLalia.png)
 
 ---
 
@@ -110,7 +110,7 @@ At **Decision Sciences** and **DAAC**, I contributed to:
 - 3D Lidar fusion and container localization  
 - Visualization pipelines for missile fluid dynamics and jet simulation  
 
-🖼️ *Suggested image:* Example 3D visualization of detector or fluid simulation (ParaView-style render).
+![DAAC](images/DAAC.png)
 
 ---
 
