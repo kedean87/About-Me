@@ -1,7 +1,7 @@
 # 👋 Kevin Edward Dean — Data Scientist | Principal Engineer | Innovator
 
 Welcome to my professional portfolio repository.  
-This page serves as an overview of my career, philosophy, and technical body of work — providing context behind my professional journey and linking to my [career presentation (Google Drive)](YOUR_GOOGLE_DRIVE_LINK_HERE).
+This page serves as an overview of my career, philosophy, and technical body of work — providing context behind my professional journey and linking to my [career presentation (Google Drive)](https://drive.google.com/file/d/1OTn4FGuy-RpomlOSttQpGxnbBXm7HQq_/view?usp=sharing).
 
 ---
 
@@ -27,7 +27,7 @@ I believe in:
 
 > “It’s not the facilitator’s job to solve every problem — it’s to improve the quality of the team’s decision process.”
 
-🖼️ *Suggested image:* A conceptual image showing interconnected data nodes, representing pattern recognition or systems thinking.
+🖼️ ![Pattern Recognition](images/complex-network-connected-nodes-lines-illustrating-interconnected-digital-data-structure-web-white-background-361740958.jpg)
 
 ---
 
