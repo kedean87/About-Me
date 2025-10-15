@@ -27,8 +27,6 @@ I believe in:
 
 > “It’s not the facilitator’s job to solve every problem — it’s to improve the quality of the team’s decision process.”
 
-🖼️ ![Pattern Recognition](images/complex-network-connected-nodes-lines-illustrating-interconnected-digital-data-structure-web-white-background-361740958.jpg)
-
 ---
 
 ## 🧠 Technical Proficiencies
@@ -42,8 +40,6 @@ I believe in:
 | **Visualization & Analysis** | OpenCV, OpenGL, Eigen, HDF5, NumPy, Matplotlib |
 | **Data Engineering** | Data wrangling, unstructured data management, point cloud processing |
 | **Research & Algorithms** | 3D image reconstruction, clustering, segmentation, regression compression, SVD, neural network architectures |
-
-🖼️ *Suggested image:* A collage of logos (Python, TensorFlow, Azure, VTK, ParaView, GitHub, Docker).
 
 ---
 
@@ -66,7 +62,7 @@ In my leadership roles (Senior Data Scientist, Principal Engineer, Director of E
 - Encourage conferences, learning, and knowledge sharing  
 - Define clear project ownership and outcome accountability  
 
-🖼️ *Suggested image:* Screenshot of a team workflow diagram or architecture board (e.g., from Miro or Azure DevOps).
+![Mutable Tree Invention Example](images/MutableTreeDiagramFromPresentation.png)
 
 ---
 
@@ -98,7 +94,7 @@ Invented and patented (US 11670052 B1) a **data structure for high-performance s
 Personal initiative inspired by my autistic sons, combining:
 - **Generative AI (LLMs)** for contextual responses  
 - **Text-to-Speech (TTS)** for vocal learning feedback  
-- **3D avatar animation** using NVIDIA Audio2Face  
+- **3D avatar animation** using Wav2Lip & SadTalker  
 
 **Goal:** Build a multimodal learning system to help neurodiverse children develop language and social understanding.
 
@@ -127,8 +123,6 @@ At **Decision Sciences** and **DAAC**, I contributed to:
 | **DAAC** | Principal Modeling & Simulation Engineer | HPC visualization software, mesh coarsening |
 | **Illuscio Inc.** | Principal Engineer / Director of Engineering | AI-driven 3D visualization, data structures, ML pipelines |
 
-🖼️ *Suggested image:* Career timeline diagram or collage of logos.
-
 ---
 
 ## 💡 Personal Research Interests
@@ -145,8 +139,6 @@ At **Decision Sciences** and **DAAC**, I contributed to:
 
 For a full, illustrated walkthrough of my background and research, please view the complete presentation here:  
 ➡️ [**Kevin Edward Dean – Career Presentation (Google Drive)**](https://drive.google.com/file/d/1OTn4FGuy-RpomlOSttQpGxnbBXm7HQq_/view?usp=sharing)
-
-![Mutable Tree Invention Example](images/MutableTreeDiagramFromPresentation.png)
 
 ---
 
