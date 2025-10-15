@@ -34,7 +34,7 @@ I believe in:
 | Category | Skills & Tools |
 |-----------|----------------|
 | **Programming Languages** | Python, C++, CMake, Bash, Visual Basic |
-| **Machine Learning / Deep Learning** | TensorFlow, PyTorch, scikit-learn, CoreML, XGBoost, AdaBoost, Random Forest |
+| **Machine Learning / Deep Learning** | TensorFlow, scikit-learn, CoreML, XGBoost, AdaBoost, Random Forest |
 | **3D Visualization & Data Structures** | VTK, ParaView, VisIt, Potree, Octree, Mutable Tree, PointCloud Data Structures |
 | **Cloud & DevOps** | Azure, AWS, Azure DevOps, Docker, GitHub, GitLab |
 | **Visualization & Analysis** | OpenCV, OpenGL, Eigen, HDF5, NumPy, Matplotlib |
@@ -127,11 +127,19 @@ At **Decision Sciences** and **DAAC**, I contributed to:
 
 ## 💡 Personal Research Interests
 
-- Generative AI for education and accessibility  
-- Spatial data structures for real-time rendering  
-- Neural architectures for point cloud analysis  
-- Hybrid compression and memory optimization  
-- Semantic segmentation and multi-modal learning  
+1. Generative AI and classical machine/deep learning for education and accessibility
+    - Large Language Models (with Retrieval Augmentation)
+    - Natural Language Processing
+    - Healthcare / Finance / E-commerce
+2. 3 Dimensional Rendering of High Density Data, with possible animation
+    - creating a Content Delivery Network to outperform modern platforms
+3. Spatial data structures for real-time rendering
+    - Mutable Tree vs Octree in python to Show comparison 
+4. Neural architectures for point cloud analysis
+    - Compare Gaussian Splatting & NeRF against Gaussian Node Traversal Visualization
+5. Hybrid compression and memory optimization  
+6. Semantic segmentation and multi-modal learning
+    - Autonomous Vehicles perception
 
 ---
 
