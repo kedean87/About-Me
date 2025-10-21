@@ -153,7 +153,7 @@ For a full, illustrated walkthrough of my background and research, please view t
 ## ✉️ Contact
 
 - **Email:** kevinedwarddean@gmail.com
-- **GitHub:** [github.com/kevindean](https://github.com/kevindean87)  
+- **GitHub:** [github.com/kevindean](https://github.com/kevindean)  
 - **GitHub:** [github.com/kevindean87](https://github.com/kevindean87)  
 - **LinkedIn:** [linkedin.com/in/kevinedwarddean](https://www.linkedin.com/in/kevin-dean-9a67a728/)  
 
