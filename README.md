@@ -98,7 +98,12 @@ Personal initiative inspired by my autistic sons, combining:
 
 **Goal:** Build a multimodal learning system to help neurodiverse children develop language and social understanding.
 
-![Welcome To Lalia](images/WelcomeToLalia.png)
+- Welcome To Lalia Compnay
+![Select Your Language](images/SelectYourLanguage.png)
+![Login](images/Login.png)
+![Options To Perform](images/TemplateOptions.png)
+![Pick a Language for Translation](images/PickALanguage.png)
+![Generated The Gen AI video with TTS](images/GeneratedVideo.png)
 
 ---
 
