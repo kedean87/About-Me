@@ -94,7 +94,7 @@ Invented and patented (US 11670052 B1) a **data structure for high-performance s
 Personal initiative inspired by my autistic sons, combining:
 - **Generative AI (LLMs)** for contextual responses  
 - **Text-to-Speech (TTS)** for vocal learning feedback  
-- **3D avatar animation** using Wav2Lip & SadTalker  
+- **2D/3D avatar animation** using Wav2Lip & SadTalker  
 
 **Goal:** Build a multimodal learning system to help neurodiverse children develop language and social understanding.
 
